@@ -103,3 +103,5 @@ friends: [
         href: "https://yafeilee.me/"
     }
 ]
+
+theme: jekyll-theme-slate
