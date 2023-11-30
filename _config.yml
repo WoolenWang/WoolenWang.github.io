@@ -1,6 +1,6 @@
 # Site settings
-title: Woolen Blog
-SEOTitle: 轮子的博客 | Woolen Blog
+title: 沃来聊聊
+SEOTitle: 沃来聊聊 | 沃来聊聊
 header-img: img/post-bg-desk.jpg
 email: just_woolen@qq.com
 description: "脚踏实地，总能成功."
@@ -39,7 +39,8 @@ anchorjs: true                          # if you want to customize anchor. check
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
-gems: [jekyll-paginate]
+#gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 
 
@@ -98,10 +99,6 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "Windy",
-        href: "https://yafeilee.me/"
-    }
 ]
 
 theme: jekyll-theme-slate
