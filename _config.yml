@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: just_woolen@qq.com
 description: "脚踏实地，总能成功."
 keyword: "王沃伦的博客, 轮子的博客, Woolen Blog"
-url: "http://WoolenWang.github.io"          # your host, for absolute URL
+url: "http://woolen.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/WoolenWang/WoolenWang.github.io.git" # you code repository
 
