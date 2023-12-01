@@ -62,7 +62,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: db36025f4a99989e61de                            #生成的clientID
   clientSecret: 48127687e8a89d0800dd7f13814e17c309d5239a    #生成的clientSecret
   repo: WoolenWang.github.io    #仓库名称
